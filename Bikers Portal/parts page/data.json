@@ -1,0 +1,122 @@
+[
+    {
+        "name" : "Windshield",
+        "category" : "Visual Parts",
+        "price" : "50.25",
+        "imgSrc" : "assets/img/windsheld.svg"
+    },
+    {
+        "name" : "Body-Protection",
+        "category" : "Visual Parts",
+        "price" : "102.00",
+        "imgSrc" : "assets/img/body-protection.svg"
+    },
+    {
+        "name" : "Plastic",
+        "category" : "Visual Parts",
+        "price" : "15.00",
+        "imgSrc" : "assets/img/plastic.svg"
+    },
+    {
+        "name" : "Mirror",
+        "category" : "Visual Parts",
+        "price" : "23.75",
+        "imgSrc" : "assets/img/mirror.svg"
+    },
+    {
+        "name" : "Graphics",
+        "category" : "Visual Parts",
+        "price" : "50.00",
+        "imgSrc" : "assets/img/graphics.svg"
+    },
+    {
+        "name" : "Exhausts-seat",
+        "category" : "Exhausts",
+        "price" : "200.50",
+        "imgSrc" : "assets/img/exhausts-seat.svg"
+    },
+    {
+        "name" : "Exhausts-system",
+        "category" : "Exhausts",
+        "price" : "5.50",
+        "imgSrc" : "assets/img/exhausts-system.svg"
+    },
+    {
+        "name" : "Exhausts-sticker",
+        "category" : "Exhausts",
+        "price" : "25.00",
+        "imgSrc" : "assets/img/exhausts-sticker.svg"
+    },
+    {
+        "name" : "Exhausts-pipe",
+        "category" : "Exhausts",
+        "price" : "49.00",
+        "imgSrc" : "assets/img/ex-pipe.svg"
+    },
+    {
+        "name" : "Exhaust-Accesories",
+        "category" : "Suspensions",
+        "price" : "60.99",
+        "imgSrc" : "assets/img/ex-accesories.svg"
+    },
+    {
+        "name" : "Leds",
+        "category" : "Lights",
+        "price" : "69.20",
+        "imgSrc" : "./assets/img/led.svg"
+    },
+    {
+        "name" : "Suspension arm kits",
+        "category" : "Suspensions",
+        "price" : "224.99",
+        "imgSrc" : "assets/img/sus-arm-kit.svg"
+    },
+    {
+        "name" : "Suspension seals",
+        "category" : "Suspensions",
+        "price" : "90.25",
+        "imgSrc" : "assets/img/sus-seal.svg"
+    },
+    {
+        "name" : "Suspension Forksd",
+        "category" : "Suspensions",
+        "price" : "99.99",
+        "imgSrc" : "assets/img/sus-forks.svg"
+    },
+    {
+        "name" : "Suspension lift kit",
+        "category" : "Suspensions",
+        "price" : "75.80",
+        "imgSrc" : "assets/img/sus-lift-kit.svg"
+    },
+    {
+        "name" : "Suspension Shock",
+        "category" : "Suspensions",
+        "price" : "159.00",
+        "imgSrc" : "assets/img/sus-shock.svg"
+    },
+    {
+        "name" : "Driving lights",
+        "category" : "Lights",
+        "price" : "100.50",
+        "imgSrc" : "assets/img/driving-light.svg"
+    },
+    {
+        "name" : "Lighting kits",
+        "category" : "Lights",
+        "price" : "187.45",
+        "imgSrc" : "assets/img/light-kit.svg"
+    },
+    {
+        "name" : "Tail lights",
+        "category" : "Lights",
+        "price" : "322.50",
+        "imgSrc" : "assets/img/teil-light.svg"
+    },
+    {
+        "name" : "Signal lights",
+        "category" : "Lights",
+        "price" : "288.99",
+        "imgSrc" : "assets/img/signal-light.svg"
+    }
+]

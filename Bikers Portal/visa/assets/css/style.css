@@ -1,0 +1,44 @@
+.search-bar-style{
+    width: 80%;
+}
+.login-btn{
+    height: 35px;
+    width: 80px;
+}
+.cart-btn{
+    height: 35px;
+    width: 30px;
+    padding: 5px 0;
+}
+.navbarBrand {
+    height: 90px;
+    width: auto;
+}
+.ms-lg-10{
+   margin-left: 35px;
+}
+.h-85{
+    height: 85% !important;
+}
+.mt-10{
+    margin-top: 100px;
+}
+.mt-6{
+    margin-top: 60px;
+}
+.cont-shopping{
+    margin-bottom: 100px;
+}
+.w-40{
+    width: 40%;
+    border: none;
+    border-bottom: 1px solid black!important;
+}
+.date{
+    border: none;
+    border-bottom: 1px solid black!important;
+}
+.buy-btn{
+    width: 95% !important;
+    border-radius: 10px!important;
+}

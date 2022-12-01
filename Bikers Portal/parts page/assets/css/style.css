@@ -1,0 +1,95 @@
+
+
+.navbar {
+    width: 100% !important;
+    min-height: 100px !important;
+}
+
+.navbarBrand {
+    height: 90px;
+    width: auto;
+}
+
+.footer{
+    width: 100%;
+    min-height: 180px;
+}
+.margin{
+    margin-top: 10px;
+}
+
+
+.signupbtn{
+    margin-top: 19px;
+    margin-left: 97px;
+    padding: 10px 30px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    margin-bottom: 19px;
+}
+.parts{
+    height: auto!important;
+    width: 100% !important;
+}
+.parts-border{
+    border-top: 2px solid black;
+}
+.parts-heading{
+    margin-top: -14px;
+
+}
+.bike-parts-bg{
+    height: 30px;
+    width:100px;
+    justify-content: center!important;
+    margin: -13px auto;
+
+}
+.w-80{
+    width: 100px;
+}
+.visual-parts{
+}
+.circle-bg{
+    height: 8px!important;
+    width: 13px!important;
+    margin: 0 auto;
+}
+.circle{
+    height: 8px;
+    width: 8px;
+    clip-path: circle() !important;
+    background-color: black;
+    margin-top: -4px;
+    margin-left: 3px;
+
+}
+.me-10{
+    margin-right: 46px!important;
+
+}
+.ml-1{
+    margin-left: 2px;
+}
+.top-border{
+    margin-top: 10px;
+    border-top: 2px solid black;
+}
+.border {
+    width: 100px;
+    height: 1px;
+    margin: 0 auto;
+    border-top: 1px solid black!important;
+}
+.image {
+
+    width: auto;
+}
+.image2{
+    height: 102px;
+    width: auto;
+}
+.content-center{
+    text-align: center;
+}

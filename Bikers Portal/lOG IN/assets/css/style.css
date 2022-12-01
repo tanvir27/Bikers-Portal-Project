@@ -1,0 +1,46 @@
+
+
+.navbar {
+    width: 100% !important;
+    min-height: 100px !important;
+}
+
+.navbarBrand {
+    height: 90px;
+    width: auto;
+}
+
+
+.footer{
+    width: 100%;
+    min-height: 180px;
+}
+.margin{
+    margin-top: 10px;
+}
+.singup{
+    min-height: 60vh;
+    width: 100%;
+}
+.singup-box{
+    min-height: 60vh;
+    width: 307px;
+    margin: 0 auto;
+
+}
+.form{
+   background-clip: padding-box;
+    outline: 0;
+    border:  0;
+    border-bottom: 1px solid black;
+    margin-bottom: 25px;
+}
+.signupbtn{
+    margin-top: 19px;
+    margin-left: 97px;
+    padding: 10px 30px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    margin-bottom: 19px;
+}
